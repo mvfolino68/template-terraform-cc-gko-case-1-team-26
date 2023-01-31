@@ -1,5 +1,7 @@
 # Terraform Template for GKO Case 1
 
+[Architecture Diagram](https://lucid.app/lucidchart/261b8c05-21bd-4d05-9c4d-c1b257ecb61a/edit?viewport_loc=-10096%2C-5802%2C9681%2C5887%2C0_0&invitationId=inv_193805e2-f890-4fd7-913b-fe567191907a)
+
 ## Before you get started
 
 Before you get started, you're going to need a few things.
