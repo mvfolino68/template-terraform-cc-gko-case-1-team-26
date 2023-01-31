@@ -1,5 +1,5 @@
 resource "random_id" "env_display_id" {
-    byte_length = 4
+    byte_length = 4 
 }
 # ------------------------------------------------------
 # ENVIRONMENT (GLOBAL TO BOTH CLUSTERS)
